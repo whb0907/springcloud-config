@@ -1,3 +1,2 @@
 config:
-  info: git-config-server,dev
-  version: 1
+  info: git-config-server,dev,version=1
